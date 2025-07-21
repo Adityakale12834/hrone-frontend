@@ -1,5 +1,4 @@
 // src/components/json-schema-builder.tsx
-import * as React from "react";
 import {
   useForm,
   useFieldArray,
